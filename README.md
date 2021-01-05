@@ -1,9 +1,4 @@
 # ML
-Hello, This repository contains two data sets, one for practicing Regression and the other for Classification. 
-
-Life Expectancy
-===============
-The agenda of this regression task is to predict the life expectancy of the people in a particular region.
 
 Mushroom Classification
 ========================
